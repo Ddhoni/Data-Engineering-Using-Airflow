@@ -25,5 +25,8 @@ Apache Airflow in data analysis provides several benefits, namely:
 
 ### Directed Acrylic Graph(DAG)
 
+To support workflow management, Apache Airflow has several components that can be seen in the figure below.
+
+
 ![arch-diag-basic](https://github.com/user-attachments/assets/a8ff45d0-4808-4756-b9ef-28e519da82ee)
 
